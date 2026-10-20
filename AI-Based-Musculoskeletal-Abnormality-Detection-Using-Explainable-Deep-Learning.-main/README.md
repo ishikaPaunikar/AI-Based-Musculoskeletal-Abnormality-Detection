@@ -346,9 +346,9 @@ The current small-sample evaluation is a software demonstration, not evidence of
 
 ## 👨‍💻 Author
 
-**Vidit Wanjari**
+**Ishika Paunikar**
 
-GitHub: [@Vidit72wanjari](https://github.com/Vidit72wanjari)
+GitHub: https://github.com/ishikaPaunikar
 
 ## 📜 Disclaimer
 
